@@ -1,0 +1,191 @@
+{
+  "platform": "react",
+  "code": {
+    "lang": "ts",
+    "scheme": "blackbox",
+    "reactRuntime": "classic"
+  },
+  "style": {
+    "scheme": "css-modules",
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+  },
+  "images": {
+    "scheme": "files",
+    "publicDir": "../../public",
+    "publicUrlPrefix": "/static/"
+  },
+  "tokens": {
+    "scheme": "theo",
+    "tokensFilePath": "plasmic-tokens.theo.json"
+  },
+  "srcDir": "src/components",
+  "defaultPlasmicDir": "./plasmic",
+  "projects": [
+    {
+      "projectId": "hHW5shLAP4XsY42yYPZTin",
+      "projectApiToken": "PvNaGoY6ZSRLNM5uf45ZhETjcOgUwhs97PLqmayycNat072w43EMdvFXsrlzIkgKy1WCVfmUj4tjg6QiRwhw",
+      "projectName": "Hackathon",
+      "version": "latest",
+      "cssFilePath": "plasmic/hackathon/plasmic_hackathon.module.css",
+      "components": [
+        {
+          "id": "dypzx1jmEoDu",
+          "name": "Homepage",
+          "type": "managed",
+          "projectId": "hHW5shLAP4XsY42yYPZTin",
+          "renderModuleFilePath": "plasmic/hackathon/PlasmicHomepage.tsx",
+          "importSpec": {
+            "modulePath": "Homepage.tsx"
+          },
+          "cssFilePath": "plasmic/hackathon/PlasmicHomepage.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "ygKiJ5GTxG",
+          "name": "GraphLoading",
+          "type": "managed",
+          "projectId": "hHW5shLAP4XsY42yYPZTin",
+          "renderModuleFilePath": "plasmic/hackathon/PlasmicGraphLoading.tsx",
+          "importSpec": {
+            "modulePath": "GraphLoading.tsx"
+          },
+          "cssFilePath": "plasmic/hackathon/PlasmicGraphLoading.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        }
+      ],
+      "icons": [
+        {
+          "id": "7mP8uPuXt",
+          "name": "SolidzapIcon",
+          "moduleFilePath": "plasmic/hackathon/icons/PlasmicIcon__Solidzap.tsx"
+        },
+        {
+          "id": "Cd3EDFzXTN",
+          "name": "VectorIcon",
+          "moduleFilePath": "plasmic/hackathon/icons/PlasmicIcon__Vector.tsx"
+        },
+        {
+          "id": "Zzsi_RspOT",
+          "name": "CargasStationIcon",
+          "moduleFilePath": "plasmic/hackathon/icons/PlasmicIcon__CargasStation.tsx"
+        },
+        {
+          "id": "u1fF8JwlxJ",
+          "name": "Rectangle1Icon",
+          "moduleFilePath": "plasmic/hackathon/icons/PlasmicIcon__Rectangle1.tsx"
+        },
+        {
+          "id": "j_VXJmEC5i",
+          "name": "RegularpackageIcon",
+          "moduleFilePath": "plasmic/hackathon/icons/PlasmicIcon__Regularpackage.tsx"
+        },
+        {
+          "id": "Z6PzZCLCMm",
+          "name": "Rectangle21Icon",
+          "moduleFilePath": "plasmic/hackathon/icons/PlasmicIcon__Rectangle21.tsx"
+        },
+        {
+          "id": "VRY13TbgAG",
+          "name": "Line17Icon",
+          "moduleFilePath": "plasmic/hackathon/icons/PlasmicIcon__Line17.tsx"
+        },
+        {
+          "id": "Jssvw4eTHm",
+          "name": "Line22Icon",
+          "moduleFilePath": "plasmic/hackathon/icons/PlasmicIcon__Line22.tsx"
+        },
+        {
+          "id": "yYPDGi3Idh",
+          "name": "Ellipse7Icon",
+          "moduleFilePath": "plasmic/hackathon/icons/PlasmicIcon__Ellipse7.tsx"
+        },
+        {
+          "id": "1LXTQsdU2h",
+          "name": "ActionfingerprintIcon",
+          "moduleFilePath": "plasmic/hackathon/icons/PlasmicIcon__Actionfingerprint.tsx"
+        },
+        {
+          "id": "HQp4egonjD",
+          "name": "Group4Icon",
+          "moduleFilePath": "plasmic/hackathon/icons/PlasmicIcon__Group4.tsx"
+        },
+        {
+          "id": "3ZUm589dZr",
+          "name": "Line1Icon",
+          "moduleFilePath": "plasmic/hackathon/icons/PlasmicIcon__Line1.tsx"
+        },
+        {
+          "id": "QOqPUC9Rcr",
+          "name": "Ellipse4Icon",
+          "moduleFilePath": "plasmic/hackathon/icons/PlasmicIcon__Ellipse4.tsx"
+        },
+        {
+          "id": "_PyFQ-RsIY",
+          "name": "Group5Icon",
+          "moduleFilePath": "plasmic/hackathon/icons/PlasmicIcon__Group5.tsx"
+        },
+        {
+          "id": "24UqbMZTLz",
+          "name": "Rectangle10Icon",
+          "moduleFilePath": "plasmic/hackathon/icons/PlasmicIcon__Rectangle10.tsx"
+        },
+        {
+          "id": "VgE_Vg0Igb",
+          "name": "Rectangle11Icon",
+          "moduleFilePath": "plasmic/hackathon/icons/PlasmicIcon__Rectangle11.tsx"
+        }
+      ],
+      "images": [
+        {
+          "id": "bkE_ssrpbc",
+          "name": "Line 14",
+          "filePath": "plasmic/hackathon/images/line14.svg"
+        },
+        {
+          "id": "vobxeujydm",
+          "name": "Ellipse 2",
+          "filePath": "plasmic/hackathon/images/ellipse2.svg"
+        },
+        {
+          "id": "k9ZGaMSZg",
+          "name": "Line 15",
+          "filePath": "plasmic/hackathon/images/line15.svg"
+        },
+        {
+          "id": "Ax18auFf1p",
+          "name": "Ellipse 3",
+          "filePath": "plasmic/hackathon/images/ellipse3.svg"
+        }
+      ],
+      "indirect": false,
+      "globalContextsFilePath": "",
+      "codeComponents": [
+        {
+          "id": "skwHW9EyB-Bdj",
+          "name": "PlasmicHead",
+          "componentImportPath": "@plasmicapp/react-web"
+        },
+        {
+          "id": "DhX5e1545iohE",
+          "name": "Fetcher",
+          "componentImportPath": "@plasmicapp/react-web/lib/data-sources"
+        }
+      ]
+    }
+  ],
+  "globalVariants": {
+    "variantGroups": [
+      {
+        "id": "J9teAyCjea2OW",
+        "name": "Screen",
+        "projectId": "hHW5shLAP4XsY42yYPZTin",
+        "contextFilePath": "plasmic/hackathon/PlasmicGlobalVariant__Screen.tsx"
+      }
+    ]
+  },
+  "wrapPagesWithGlobalContexts": true,
+  "cliVersion": "0.1.274",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.274/dist/plasmic.schema.json"
+}
